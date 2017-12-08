@@ -1,7 +1,7 @@
 <h1 align='center'>
 Sberbank Data Science Contest 2017: Problem A
 </h1>
-<img align="canter" src="img/task_a.png" width=400px; height=400px>
+<img align="center" src="img/task_a.png" width=400px; height=400px>
 <h4 align='right'>
 Автор решения: Александр Желубенков (topspin26), 1 место.
 </h4>
